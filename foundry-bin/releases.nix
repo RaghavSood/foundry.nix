@@ -1,23 +1,23 @@
 {
   version = "0.0.0";
-  timestamp = "2025-07-18T20:53:43Z";
+  timestamp = "2025-07-21T20:45:16Z";
 
   sources = {
     "x86_64-linux" = {
-      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-c78faa217c4ee7a60894c4f740f5c5a967ffb97b/foundry_nightly_linux_amd64.tar.gz";
-      sha256 = "0mf61bpaj3p8yww9cy4c95j5kql0j3vliyhbqgxs3w9g3n1dmmav";
+      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-56b806a3ba7866a3b061093bebd0fa2ace97f1fc/foundry_nightly_linux_amd64.tar.gz";
+      sha256 = "15nx5pkvsl2vfqn4kxbq3kqmagcmqyk5qxcls5k316jm85n3vha7";
     };
     "aarch64-linux" = {
-      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-c78faa217c4ee7a60894c4f740f5c5a967ffb97b/foundry_nightly_linux_arm64.tar.gz";
-      sha256 = "0xmd6r0446zq6y3bb0g1r8cfm2adivdr3l56a7hr45h204wlhx4v";
+      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-56b806a3ba7866a3b061093bebd0fa2ace97f1fc/foundry_nightly_linux_arm64.tar.gz";
+      sha256 = "0cjiypms6yffxglcj7j18bchhsg8gazwl7ks7f1ykhw0clcgxbrw";
     }; 
     "x86_64-darwin" = {
-      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-c78faa217c4ee7a60894c4f740f5c5a967ffb97b/foundry_nightly_darwin_amd64.tar.gz";
-      sha256 = "1lw7812xk119g5rsphaaria1xhg0pamba1ncgmhi7a0pf4nmq5y3";
+      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-56b806a3ba7866a3b061093bebd0fa2ace97f1fc/foundry_nightly_darwin_amd64.tar.gz";
+      sha256 = "11fwgzq0f1mx89qf2c6a1kzcriqz88cb4c06iwd0p9v1gmkzkm07";
     };
     "aarch64-darwin" = {
-      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-c78faa217c4ee7a60894c4f740f5c5a967ffb97b/foundry_nightly_darwin_arm64.tar.gz";
-      sha256 = "18fznqa377q2xwyydwgsk88qm1z9wvj5yjpsw6fylj7ld9r3k35h";
+      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-56b806a3ba7866a3b061093bebd0fa2ace97f1fc/foundry_nightly_darwin_arm64.tar.gz";
+      sha256 = "0bn9yj36v3abckz50rbjdk17xh5dvgb7rvsj6mkz8399rx2ar445";
     };
   };
 }
